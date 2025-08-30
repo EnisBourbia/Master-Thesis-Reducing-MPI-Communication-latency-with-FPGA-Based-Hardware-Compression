@@ -1,0 +1,363 @@
+--------------------------------------------------------------
+                     Xilinx Compress
+--------------------------------------------------------------
+KT(MBps)		:INFO::[ Vitis-EM 22 ] [Time elapsed: 4 minute(s) 55 seconds, Emulation time: 1.12415 ms]
+Data transfer between kernel(s) and global memory(s)
+xilLz4Compress_1:m_axi_gmem0-HBM[0]          RD = 2373.000 KB            WR = 1537.688 KB     
+xilLz4Compress_1:m_axi_gmem1-HBM[0]          RD = 0.156 KB               WR = 0.125 KB        
+xilLz4Decompress_1:m_axi_gmem-HBM[0]          RD = 0.000 KB               WR = 0.000 KB        
+
+INFO::[ Vitis-EM 22 ] [Time elapsed: 9 minute(s) 59 seconds, Emulation time: 2.24438 ms]
+Data transfer between kernel(s) and global memory(s)
+xilLz4Compress_1:m_axi_gmem0-HBM[0]          RD = 4859.000 KB            WR = 3178.438 KB     
+xilLz4Compress_1:m_axi_gmem1-HBM[0]          RD = 0.312 KB               WR = 0.281 KB        
+xilLz4Decompress_1:m_axi_gmem-HBM[0]          RD = 0.000 KB               WR = 0.000 KB        
+
+INFO::[ Vitis-EM 22 ] [Time elapsed: 14 minute(s) 59 seconds, Emulation time: 3.3436 ms]
+Data transfer between kernel(s) and global memory(s)
+xilLz4Compress_1:m_axi_gmem0-HBM[0]          RD = 7295.000 KB            WR = 4784.062 KB     
+xilLz4Compress_1:m_axi_gmem1-HBM[0]          RD = 0.469 KB               WR = 0.438 KB        
+xilLz4Decompress_1:m_axi_gmem-HBM[0]          RD = 0.000 KB               WR = 0.000 KB        
+
+INFO::[ Vitis-EM 22 ] [Time elapsed: 20 minute(s) 0 seconds, Emulation time: 4.43683 ms]
+Data transfer between kernel(s) and global memory(s)
+xilLz4Compress_1:m_axi_gmem0-HBM[0]          RD = 9728.000 KB            WR = 6396.125 KB     
+xilLz4Compress_1:m_axi_gmem1-HBM[0]          RD = 0.594 KB               WR = 0.562 KB        
+xilLz4Decompress_1:m_axi_gmem-HBM[0]          RD = 0.000 KB               WR = 0.000 KB        
+
+INFO::[ Vitis-EM 22 ] [Time elapsed: 25 minute(s) 2 seconds, Emulation time: 5.56206 ms]
+Data transfer between kernel(s) and global memory(s)
+xilLz4Compress_1:m_axi_gmem0-HBM[0]          RD = 12240.000 KB           WR = 8042.312 KB     
+xilLz4Compress_1:m_axi_gmem1-HBM[0]          RD = 0.750 KB               WR = 0.719 KB        
+xilLz4Decompress_1:m_axi_gmem-HBM[0]          RD = 0.000 KB               WR = 0.000 KB        
+
+INFO::[ Vitis-EM 22 ] [Time elapsed: 30 minute(s) 3 seconds, Emulation time: 6.69445 ms]
+Data transfer between kernel(s) and global memory(s)
+xilLz4Compress_1:m_axi_gmem0-HBM[0]          RD = 14755.000 KB           WR = 9697.312 KB     
+xilLz4Compress_1:m_axi_gmem1-HBM[0]          RD = 0.906 KB               WR = 0.875 KB        
+xilLz4Decompress_1:m_axi_gmem-HBM[0]          RD = 0.000 KB               WR = 0.000 KB        
+
+INFO::[ Vitis-EM 22 ] [Time elapsed: 35 minute(s) 3 seconds, Emulation time: 7.81669 ms]
+Data transfer between kernel(s) and global memory(s)
+xilLz4Compress_1:m_axi_gmem0-HBM[0]          RD = 17245.000 KB           WR = 11339.750 KB    
+xilLz4Compress_1:m_axi_gmem1-HBM[0]          RD = 1.062 KB               WR = 1.031 KB        
+xilLz4Decompress_1:m_axi_gmem-HBM[0]          RD = 0.000 KB               WR = 0.000 KB        
+
+INFO::[ Vitis-EM 22 ] [Time elapsed: 40 minute(s) 9 seconds, Emulation time: 8.96092 ms]
+Data transfer between kernel(s) and global memory(s)
+xilLz4Compress_1:m_axi_gmem0-HBM[0]          RD = 19786.000 KB           WR = 13013.125 KB    
+xilLz4Compress_1:m_axi_gmem1-HBM[0]          RD = 1.219 KB               WR = 1.188 KB        
+xilLz4Decompress_1:m_axi_gmem-HBM[0]          RD = 0.000 KB               WR = 0.000 KB        
+
+INFO::[ Vitis-EM 22 ] [Time elapsed: 45 minute(s) 12 seconds, Emulation time: 10.0991 ms]
+Data transfer between kernel(s) and global memory(s)
+xilLz4Compress_1:m_axi_gmem0-HBM[0]          RD = 22310.000 KB           WR = 14674.125 KB    
+xilLz4Compress_1:m_axi_gmem1-HBM[0]          RD = 1.375 KB               WR = 1.344 KB        
+xilLz4Decompress_1:m_axi_gmem-HBM[0]          RD = 0.000 KB               WR = 0.000 KB        
+
+INFO::[ Vitis-EM 22 ] [Time elapsed: 50 minute(s) 13 seconds, Emulation time: 11.2264 ms]
+Data transfer between kernel(s) and global memory(s)
+xilLz4Compress_1:m_axi_gmem0-HBM[0]          RD = 24814.000 KB           WR = 16323.625 KB    
+xilLz4Compress_1:m_axi_gmem1-HBM[0]          RD = 1.531 KB               WR = 1.500 KB        
+xilLz4Decompress_1:m_axi_gmem-HBM[0]          RD = 0.000 KB               WR = 0.000 KB        
+
+INFO::[ Vitis-EM 22 ] [Time elapsed: 55 minute(s) 13 seconds, Emulation time: 12.3596 ms]
+Data transfer between kernel(s) and global memory(s)
+xilLz4Compress_1:m_axi_gmem0-HBM[0]          RD = 27331.000 KB           WR = 17982.812 KB    
+xilLz4Compress_1:m_axi_gmem1-HBM[0]          RD = 1.688 KB               WR = 1.656 KB        
+xilLz4Decompress_1:m_axi_gmem-HBM[0]          RD = 0.000 KB               WR = 0.000 KB        
+
+INFO::[ Vitis-EM 22 ] [Time elapsed: 60 minute(s) 14 seconds, Emulation time: 13.4869 ms]
+Data transfer between kernel(s) and global memory(s)
+xilLz4Compress_1:m_axi_gmem0-HBM[0]          RD = 29833.000 KB           WR = 19627.125 KB    
+xilLz4Compress_1:m_axi_gmem1-HBM[0]          RD = 1.844 KB               WR = 1.812 KB        
+xilLz4Decompress_1:m_axi_gmem-HBM[0]          RD = 0.000 KB               WR = 0.000 KB        
+
+INFO::[ Vitis-EM 22 ] [Time elapsed: 65 minute(s) 14 seconds, Emulation time: 14.6161 ms]
+Data transfer between kernel(s) and global memory(s)
+xilLz4Compress_1:m_axi_gmem0-HBM[0]          RD = 32339.000 KB           WR = 21277.938 KB    
+xilLz4Compress_1:m_axi_gmem1-HBM[0]          RD = 2.000 KB               WR = 1.969 KB        
+xilLz4Decompress_1:m_axi_gmem-HBM[0]          RD = 0.000 KB               WR = 0.000 KB        
+
+INFO::[ Vitis-EM 22 ] [Time elapsed: 70 minute(s) 14 seconds, Emulation time: 15.7504 ms]
+Data transfer between kernel(s) and global memory(s)
+xilLz4Compress_1:m_axi_gmem0-HBM[0]          RD = 34844.000 KB           WR = 22921.000 KB    
+xilLz4Compress_1:m_axi_gmem1-HBM[0]          RD = 2.156 KB               WR = 2.125 KB        
+xilLz4Decompress_1:m_axi_gmem-HBM[0]          RD = 0.000 KB               WR = 0.000 KB        
+
+INFO::[ Vitis-EM 22 ] [Time elapsed: 75 minute(s) 17 seconds, Emulation time: 16.8747 ms]
+Data transfer between kernel(s) and global memory(s)
+xilLz4Compress_1:m_axi_gmem0-HBM[0]          RD = 37366.000 KB           WR = 24577.312 KB    
+xilLz4Compress_1:m_axi_gmem1-HBM[0]          RD = 2.281 KB               WR = 2.250 KB        
+xilLz4Decompress_1:m_axi_gmem-HBM[0]          RD = 0.000 KB               WR = 0.000 KB        
+
+INFO::[ Vitis-EM 22 ] [Time elapsed: 80 minute(s) 21 seconds, Emulation time: 18.012 ms]
+Data transfer between kernel(s) and global memory(s)
+xilLz4Compress_1:m_axi_gmem0-HBM[0]          RD = 39891.000 KB           WR = 26234.000 KB    
+xilLz4Compress_1:m_axi_gmem1-HBM[0]          RD = 2.438 KB               WR = 2.406 KB        
+xilLz4Decompress_1:m_axi_gmem-HBM[0]          RD = 0.000 KB               WR = 0.000 KB        
+
+INFO::[ Vitis-EM 22 ] [Time elapsed: 85 minute(s) 23 seconds, Emulation time: 19.1462 ms]
+Data transfer between kernel(s) and global memory(s)
+xilLz4Compress_1:m_axi_gmem0-HBM[0]          RD = 42407.000 KB           WR = 27884.938 KB    
+xilLz4Compress_1:m_axi_gmem1-HBM[0]          RD = 2.594 KB               WR = 2.562 KB        
+xilLz4Decompress_1:m_axi_gmem-HBM[0]          RD = 0.000 KB               WR = 0.000 KB        
+
+INFO::[ Vitis-EM 22 ] [Time elapsed: 90 minute(s) 23 seconds, Emulation time: 20.2664 ms]
+Data transfer between kernel(s) and global memory(s)
+xilLz4Compress_1:m_axi_gmem0-HBM[0]          RD = 44891.000 KB           WR = 29515.312 KB    
+xilLz4Compress_1:m_axi_gmem1-HBM[0]          RD = 2.750 KB               WR = 2.719 KB        
+xilLz4Decompress_1:m_axi_gmem-HBM[0]          RD = 0.000 KB               WR = 0.000 KB        
+
+INFO::[ Vitis-EM 22 ] [Time elapsed: 95 minute(s) 24 seconds, Emulation time: 21.3957 ms]
+Data transfer between kernel(s) and global memory(s)
+xilLz4Compress_1:m_axi_gmem0-HBM[0]          RD = 47400.000 KB           WR = 31163.562 KB    
+xilLz4Compress_1:m_axi_gmem1-HBM[0]          RD = 2.906 KB               WR = 2.875 KB        
+xilLz4Decompress_1:m_axi_gmem-HBM[0]          RD = 0.000 KB               WR = 0.000 KB        
+
+INFO::[ Vitis-EM 22 ] [Time elapsed: 100 minute(s) 27 seconds, Emulation time: 22.5299 ms]
+Data transfer between kernel(s) and global memory(s)
+xilLz4Compress_1:m_axi_gmem0-HBM[0]          RD = 49920.000 KB           WR = 32819.062 KB    
+xilLz4Compress_1:m_axi_gmem1-HBM[0]          RD = 3.062 KB               WR = 3.031 KB        
+xilLz4Decompress_1:m_axi_gmem-HBM[0]          RD = 0.000 KB               WR = 0.000 KB        
+
+INFO::[ Vitis-EM 22 ] [Time elapsed: 105 minute(s) 28 seconds, Emulation time: 23.6541 ms]
+Data transfer between kernel(s) and global memory(s)
+xilLz4Compress_1:m_axi_gmem0-HBM[0]          RD = 52417.000 KB           WR = 34456.562 KB    
+xilLz4Compress_1:m_axi_gmem1-HBM[0]          RD = 3.219 KB               WR = 3.188 KB        
+xilLz4Decompress_1:m_axi_gmem-HBM[0]          RD = 0.000 KB               WR = 0.000 KB        
+
+INFO::[ Vitis-EM 22 ] [Time elapsed: 110 minute(s) 29 seconds, Emulation time: 24.7784 ms]
+Data transfer between kernel(s) and global memory(s)
+xilLz4Compress_1:m_axi_gmem0-HBM[0]          RD = 54916.000 KB           WR = 36095.000 KB    
+xilLz4Compress_1:m_axi_gmem1-HBM[0]          RD = 3.375 KB               WR = 3.344 KB        
+xilLz4Decompress_1:m_axi_gmem-HBM[0]          RD = 0.000 KB               WR = 0.000 KB        
+
+INFO::[ Vitis-EM 22 ] [Time elapsed: 115 minute(s) 29 seconds, Emulation time: 25.8976 ms]
+Data transfer between kernel(s) and global memory(s)
+xilLz4Compress_1:m_axi_gmem0-HBM[0]          RD = 57400.000 KB           WR = 37719.125 KB    
+xilLz4Compress_1:m_axi_gmem1-HBM[0]          RD = 3.531 KB               WR = 3.500 KB        
+xilLz4Decompress_1:m_axi_gmem-HBM[0]          RD = 0.000 KB               WR = 0.000 KB        
+
+INFO::[ Vitis-EM 22 ] [Time elapsed: 120 minute(s) 30 seconds, Emulation time: 27.0138 ms]
+Data transfer between kernel(s) and global memory(s)
+xilLz4Compress_1:m_axi_gmem0-HBM[0]          RD = 59904.000 KB           WR = 39357.500 KB    
+xilLz4Compress_1:m_axi_gmem1-HBM[0]          RD = 3.656 KB               WR = 3.625 KB        
+xilLz4Decompress_1:m_axi_gmem-HBM[0]          RD = 0.000 KB               WR = 0.000 KB        
+
+INFO::[ Vitis-EM 22 ] [Time elapsed: 125 minute(s) 31 seconds, Emulation time: 28.1341 ms]
+Data transfer between kernel(s) and global memory(s)
+xilLz4Compress_1:m_axi_gmem0-HBM[0]          RD = 62393.000 KB           WR = 40987.812 KB    
+xilLz4Compress_1:m_axi_gmem1-HBM[0]          RD = 3.812 KB               WR = 3.781 KB        
+xilLz4Decompress_1:m_axi_gmem-HBM[0]          RD = 0.000 KB               WR = 0.000 KB        
+
+INFO::[ Vitis-EM 22 ] [Time elapsed: 130 minute(s) 34 seconds, Emulation time: 29.2733 ms]
+Data transfer between kernel(s) and global memory(s)
+xilLz4Compress_1:m_axi_gmem0-HBM[0]          RD = 64925.000 KB           WR = 42643.750 KB    
+xilLz4Compress_1:m_axi_gmem1-HBM[0]          RD = 3.969 KB               WR = 3.938 KB        
+xilLz4Decompress_1:m_axi_gmem-HBM[0]          RD = 0.000 KB               WR = 0.000 KB        
+
+INFO::[ Vitis-EM 22 ] [Time elapsed: 135 minute(s) 34 seconds, Emulation time: 30.4135 ms]
+Data transfer between kernel(s) and global memory(s)
+xilLz4Compress_1:m_axi_gmem0-HBM[0]          RD = 67441.000 KB           WR = 44294.938 KB    
+xilLz4Compress_1:m_axi_gmem1-HBM[0]          RD = 4.125 KB               WR = 4.094 KB        
+xilLz4Decompress_1:m_axi_gmem-HBM[0]          RD = 0.000 KB               WR = 0.000 KB        
+
+INFO::[ Vitis-EM 22 ] [Time elapsed: 140 minute(s) 37 seconds, Emulation time: 31.5407 ms]
+Data transfer between kernel(s) and global memory(s)
+xilLz4Compress_1:m_axi_gmem0-HBM[0]          RD = 69945.000 KB           WR = 45930.688 KB    
+xilLz4Compress_1:m_axi_gmem1-HBM[0]          RD = 4.281 KB               WR = 4.250 KB        
+xilLz4Decompress_1:m_axi_gmem-HBM[0]          RD = 0.000 KB               WR = 0.000 KB        
+
+INFO::[ Vitis-EM 22 ] [Time elapsed: 145 minute(s) 39 seconds, Emulation time: 32.667 ms]
+Data transfer between kernel(s) and global memory(s)
+xilLz4Compress_1:m_axi_gmem0-HBM[0]          RD = 72449.000 KB           WR = 47569.375 KB    
+xilLz4Compress_1:m_axi_gmem1-HBM[0]          RD = 4.438 KB               WR = 4.406 KB        
+xilLz4Decompress_1:m_axi_gmem-HBM[0]          RD = 0.000 KB               WR = 0.000 KB        
+
+INFO::[ Vitis-EM 22 ] [Time elapsed: 150 minute(s) 42 seconds, Emulation time: 33.8062 ms]
+Data transfer between kernel(s) and global memory(s)
+xilLz4Compress_1:m_axi_gmem0-HBM[0]          RD = 74982.000 KB           WR = 49225.875 KB    
+xilLz4Compress_1:m_axi_gmem1-HBM[0]          RD = 4.594 KB               WR = 4.562 KB        
+xilLz4Decompress_1:m_axi_gmem-HBM[0]          RD = 0.000 KB               WR = 0.000 KB        
+
+INFO::[ Vitis-EM 22 ] [Time elapsed: 155 minute(s) 44 seconds, Emulation time: 34.9294 ms]
+Data transfer between kernel(s) and global memory(s)
+xilLz4Compress_1:m_axi_gmem0-HBM[0]          RD = 77479.000 KB           WR = 50854.250 KB    
+xilLz4Compress_1:m_axi_gmem1-HBM[0]          RD = 4.750 KB               WR = 4.719 KB        
+xilLz4Decompress_1:m_axi_gmem-HBM[0]          RD = 0.000 KB               WR = 0.000 KB        
+
+INFO::[ Vitis-EM 22 ] [Time elapsed: 160 minute(s) 46 seconds, Emulation time: 36.0577 ms]
+Data transfer between kernel(s) and global memory(s)
+xilLz4Compress_1:m_axi_gmem0-HBM[0]          RD = 79987.000 KB           WR = 52493.562 KB    
+xilLz4Compress_1:m_axi_gmem1-HBM[0]          RD = 4.906 KB               WR = 4.875 KB        
+xilLz4Decompress_1:m_axi_gmem-HBM[0]          RD = 0.000 KB               WR = 0.000 KB        
+
+INFO::[ Vitis-EM 22 ] [Time elapsed: 165 minute(s) 48 seconds, Emulation time: 37.196 ms]
+Data transfer between kernel(s) and global memory(s)
+xilLz4Compress_1:m_axi_gmem0-HBM[0]          RD = 82519.000 KB           WR = 54148.500 KB    
+xilLz4Compress_1:m_axi_gmem1-HBM[0]          RD = 5.062 KB               WR = 5.031 KB        
+xilLz4Decompress_1:m_axi_gmem-HBM[0]          RD = 0.000 KB               WR = 0.000 KB        
+
+INFO::[ Vitis-EM 22 ] [Time elapsed: 170 minute(s) 49 seconds, Emulation time: 38.3312 ms]
+Data transfer between kernel(s) and global memory(s)
+xilLz4Compress_1:m_axi_gmem0-HBM[0]          RD = 85044.000 KB           WR = 55797.000 KB    
+xilLz4Compress_1:m_axi_gmem1-HBM[0]          RD = 5.219 KB               WR = 5.188 KB        
+xilLz4Decompress_1:m_axi_gmem-HBM[0]          RD = 0.000 KB               WR = 0.000 KB        
+
+INFO::[ Vitis-EM 22 ] [Time elapsed: 175 minute(s) 50 seconds, Emulation time: 39.4595 ms]
+Data transfer between kernel(s) and global memory(s)
+xilLz4Compress_1:m_axi_gmem0-HBM[0]          RD = 87559.000 KB           WR = 57444.812 KB    
+xilLz4Compress_1:m_axi_gmem1-HBM[0]          RD = 5.375 KB               WR = 5.344 KB        
+xilLz4Decompress_1:m_axi_gmem-HBM[0]          RD = 0.000 KB               WR = 0.000 KB        
+
+INFO::[ Vitis-EM 22 ] [Time elapsed: 180 minute(s) 53 seconds, Emulation time: 40.5877 ms]
+Data transfer between kernel(s) and global memory(s)
+xilLz4Compress_1:m_axi_gmem0-HBM[0]          RD = 90086.000 KB           WR = 59085.125 KB    
+xilLz4Compress_1:m_axi_gmem1-HBM[0]          RD = 5.500 KB               WR = 5.469 KB        
+xilLz4Decompress_1:m_axi_gmem-HBM[0]          RD = 0.000 KB               WR = 0.000 KB   
+
+INFO::[ Vitis-EM 22 ] [Time elapsed: 185 minute(s) 53 seconds, Emulation time: 41.708 ms]
+Data transfer between kernel(s) and global memory(s)
+xilLz4Compress_1:m_axi_gmem0-HBM[0]          RD = 92577.000 KB           WR = 60713.562 KB    
+xilLz4Compress_1:m_axi_gmem1-HBM[0]          RD = 5.656 KB               WR = 5.625 KB        
+xilLz4Decompress_1:m_axi_gmem-HBM[0]          RD = 0.000 KB               WR = 0.000 KB        
+
+INFO::[ Vitis-EM 22 ] [Time elapsed: 190 minute(s) 55 seconds, Emulation time: 42.8222 ms]
+Data transfer between kernel(s) and global memory(s)
+xilLz4Compress_1:m_axi_gmem0-HBM[0]          RD = 95053.000 KB           WR = 62330.500 KB    
+xilLz4Compress_1:m_axi_gmem1-HBM[0]          RD = 5.812 KB               WR = 5.781 KB        
+xilLz4Decompress_1:m_axi_gmem-HBM[0]          RD = 0.000 KB               WR = 0.000 KB        
+
+INFO::[ Vitis-EM 22 ] [Time elapsed: 195 minute(s) 57 seconds, Emulation time: 43.9434 ms]
+Data transfer between kernel(s) and global memory(s)
+xilLz4Compress_1:m_axi_gmem0-HBM[0]          RD = 97545.000 KB           WR = 63956.062 KB    
+xilLz4Compress_1:m_axi_gmem1-HBM[0]          RD = 5.969 KB               WR = 5.938 KB        
+xilLz4Decompress_1:m_axi_gmem-HBM[0]          RD = 0.000 KB               WR = 0.000 KB        
+
+INFO::[ Vitis-EM 22 ] [Time elapsed: 200 minute(s) 59 seconds, Emulation time: 45.0715 ms]
+Data transfer between kernel(s) and global memory(s)
+xilLz4Compress_1:m_axi_gmem0-HBM[0]          RD = 100036.000 KB          WR = 65580.562 KB    
+xilLz4Compress_1:m_axi_gmem1-HBM[0]          RD = 6.125 KB               WR = 6.094 KB        
+xilLz4Decompress_1:m_axi_gmem-HBM[0]          RD = 0.000 KB               WR = 0.000 KB        
+
+INFO::[ Vitis-EM 22 ] [Time elapsed: 206 minute(s) 0 seconds, Emulation time: 46.2007 ms]
+Data transfer between kernel(s) and global memory(s)
+xilLz4Compress_1:m_axi_gmem0-HBM[0]          RD = 102547.000 KB          WR = 67217.438 KB    
+xilLz4Compress_1:m_axi_gmem1-HBM[0]          RD = 6.281 KB               WR = 6.250 KB        
+xilLz4Decompress_1:m_axi_gmem-HBM[0]          RD = 0.000 KB               WR = 0.000 KB        
+
+INFO::[ Vitis-EM 22 ] [Time elapsed: 211 minute(s) 1 seconds, Emulation time: 47.3279 ms]
+Data transfer between kernel(s) and global memory(s)
+xilLz4Compress_1:m_axi_gmem0-HBM[0]          RD = 105054.000 KB          WR = 68852.188 KB    
+xilLz4Compress_1:m_axi_gmem1-HBM[0]          RD = 6.438 KB               WR = 6.406 KB        
+xilLz4Decompress_1:m_axi_gmem-HBM[0]          RD = 0.000 KB               WR = 0.000 KB        
+
+INFO::[ Vitis-EM 22 ] [Time elapsed: 216 minute(s) 2 seconds, Emulation time: 48.4472 ms]
+Data transfer between kernel(s) and global memory(s)
+xilLz4Compress_1:m_axi_gmem0-HBM[0]          RD = 107543.000 KB          WR = 70469.188 KB    
+xilLz4Compress_1:m_axi_gmem1-HBM[0]          RD = 6.594 KB               WR = 6.562 KB        
+xilLz4Decompress_1:m_axi_gmem-HBM[0]          RD = 0.000 KB               WR = 0.000 KB        
+
+INFO::[ Vitis-EM 22 ] [Time elapsed: 221 minute(s) 4 seconds, Emulation time: 49.5764 ms]
+Data transfer between kernel(s) and global memory(s)
+xilLz4Compress_1:m_axi_gmem0-HBM[0]          RD = 110079.000 KB          WR = 72118.812 KB    
+xilLz4Compress_1:m_axi_gmem1-HBM[0]          RD = 6.719 KB               WR = 6.688 KB        
+xilLz4Decompress_1:m_axi_gmem-HBM[0]          RD = 0.000 KB               WR = 0.000 KB        
+
+INFO::[ Vitis-EM 22 ] [Time elapsed: 226 minute(s) 5 seconds, Emulation time: 50.7077 ms]
+Data transfer between kernel(s) and global memory(s)
+xilLz4Compress_1:m_axi_gmem0-HBM[0]          RD = 112595.000 KB          WR = 73759.750 KB    
+xilLz4Compress_1:m_axi_gmem1-HBM[0]          RD = 6.875 KB               WR = 6.844 KB        
+xilLz4Decompress_1:m_axi_gmem-HBM[0]          RD = 0.000 KB               WR = 0.000 KB        
+
+INFO::[ Vitis-EM 22 ] [Time elapsed: 231 minute(s) 5 seconds, Emulation time: 51.8339 ms]
+Data transfer between kernel(s) and global memory(s)
+xilLz4Compress_1:m_axi_gmem0-HBM[0]          RD = 115100.000 KB          WR = 75390.312 KB    
+xilLz4Compress_1:m_axi_gmem1-HBM[0]          RD = 7.031 KB               WR = 7.000 KB        
+xilLz4Decompress_1:m_axi_gmem-HBM[0]          RD = 0.000 KB               WR = 0.000 KB        
+
+INFO::[ Vitis-EM 22 ] [Time elapsed: 236 minute(s) 12 seconds, Emulation time: 52.9752 ms]
+Data transfer between kernel(s) and global memory(s)
+xilLz4Compress_1:m_axi_gmem0-HBM[0]          RD = 117639.000 KB          WR = 77047.000 KB    
+xilLz4Compress_1:m_axi_gmem1-HBM[0]          RD = 7.188 KB               WR = 7.156 KB        
+xilLz4Decompress_1:m_axi_gmem-HBM[0]          RD = 0.000 KB               WR = 0.000 KB        
+
+INFO::[ Vitis-EM 22 ] [Time elapsed: 241 minute(s) 12 seconds, Emulation time: 54.1034 ms]
+Data transfer between kernel(s) and global memory(s)
+xilLz4Compress_1:m_axi_gmem0-HBM[0]          RD = 120149.000 KB          WR = 78679.125 KB    
+xilLz4Compress_1:m_axi_gmem1-HBM[0]          RD = 7.344 KB               WR = 7.312 KB        
+xilLz4Decompress_1:m_axi_gmem-HBM[0]          RD = 0.000 KB               WR = 0.000 KB        
+
+INFO::[ Vitis-EM 22 ] [Time elapsed: 246 minute(s) 13 seconds, Emulation time: 55.2286 ms]
+Data transfer between kernel(s) and global memory(s)
+xilLz4Compress_1:m_axi_gmem0-HBM[0]          RD = 122651.000 KB          WR = 80309.625 KB    
+xilLz4Compress_1:m_axi_gmem1-HBM[0]          RD = 7.500 KB               WR = 7.469 KB        
+xilLz4Decompress_1:m_axi_gmem-HBM[0]          RD = 0.000 KB               WR = 0.000 KB        
+
+INFO::[ Vitis-EM 22 ] [Time elapsed: 251 minute(s) 14 seconds, Emulation time: 56.3518 ms]
+Data transfer between kernel(s) and global memory(s)
+xilLz4Compress_1:m_axi_gmem0-HBM[0]          RD = 125148.000 KB          WR = 81935.562 KB    
+xilLz4Compress_1:m_axi_gmem1-HBM[0]          RD = 7.656 KB               WR = 7.625 KB        
+xilLz4Decompress_1:m_axi_gmem-HBM[0]          RD = 0.000 KB               WR = 0.000 KB        
+
+INFO::[ Vitis-EM 22 ] [Time elapsed: 256 minute(s) 14 seconds, Emulation time: 57.4791 ms]
+Data transfer between kernel(s) and global memory(s)
+xilLz4Compress_1:m_axi_gmem0-HBM[0]          RD = 127655.000 KB          WR = 83567.000 KB    
+xilLz4Compress_1:m_axi_gmem1-HBM[0]          RD = 7.812 KB               WR = 7.781 KB        
+xilLz4Decompress_1:m_axi_gmem-HBM[0]          RD = 0.000 KB               WR = 0.000 KB        
+
+INFO::[ Vitis-EM 22 ] [Time elapsed: 261 minute(s) 16 seconds, Emulation time: 58.6014 ms]
+Data transfer between kernel(s) and global memory(s)
+xilLz4Compress_1:m_axi_gmem0-HBM[0]          RD = 130151.000 KB          WR = 85186.688 KB    
+xilLz4Compress_1:m_axi_gmem1-HBM[0]          RD = 7.969 KB               WR = 7.938 KB        
+xilLz4Decompress_1:m_axi_gmem-HBM[0]          RD = 0.000 KB               WR = 0.000 KB        
+
+INFO::[ Vitis-EM 22 ] [Time elapsed: 266 minute(s) 17 seconds, Emulation time: 59.724 ms]
+Data transfer between kernel(s) and global memory(s)
+xilLz4Compress_1:m_axi_gmem0-HBM[0]          RD = 132637.000 KB          WR = 86801.812 KB    
+xilLz4Compress_1:m_axi_gmem1-HBM[0]          RD = 8.125 KB               WR = 8.094 KB        
+xilLz4Decompress_1:m_axi_gmem-HBM[0]          RD = 0.000 KB               WR = 0.000 KB        
+
+INFO::[ Vitis-EM 22 ] [Time elapsed: 271 minute(s) 20 seconds, Emulation time: 60.8502 ms]
+Data transfer between kernel(s) and global memory(s)
+xilLz4Compress_1:m_axi_gmem0-HBM[0]          RD = 135166.000 KB          WR = 88443.562 KB    
+xilLz4Compress_1:m_axi_gmem1-HBM[0]          RD = 8.250 KB               WR = 8.219 KB        
+xilLz4Decompress_1:m_axi_gmem-HBM[0]          RD = 0.000 KB               WR = 0.000 KB        
+
+INFO::[ Vitis-EM 22 ] [Time elapsed: 276 minute(s) 21 seconds, Emulation time: 61.9744 ms]
+Data transfer between kernel(s) and global memory(s)
+xilLz4Compress_1:m_axi_gmem0-HBM[0]          RD = 137667.000 KB          WR = 90067.625 KB    
+xilLz4Compress_1:m_axi_gmem1-HBM[0]          RD = 8.406 KB               WR = 8.375 KB        
+xilLz4Decompress_1:m_axi_gmem-HBM[0]          RD = 0.000 KB               WR = 0.000 KB        
+
+INFO::[ Vitis-EM 22 ] [Time elapsed: 281 minute(s) 21 seconds, Emulation time: 63.0957 ms]
+Data transfer between kernel(s) and global memory(s)
+xilLz4Compress_1:m_axi_gmem0-HBM[0]          RD = 140160.000 KB          WR = 91691.688 KB    
+xilLz4Compress_1:m_axi_gmem1-HBM[0]          RD = 8.562 KB               WR = 8.531 KB        
+xilLz4Decompress_1:m_axi_gmem-HBM[0]          RD = 0.000 KB               WR = 0.000 KB        
+
+INFO::[ Vitis-EM 22 ] [Time elapsed: 286 minute(s) 23 seconds, Emulation time: 64.224 ms]
+Data transfer between kernel(s) and global memory(s)
+xilLz4Compress_1:m_axi_gmem0-HBM[0]          RD = 142670.000 KB          WR = 93324.500 KB    
+xilLz4Compress_1:m_axi_gmem1-HBM[0]          RD = 8.719 KB               WR = 8.688 KB        
+xilLz4Decompress_1:m_axi_gmem-HBM[0]          RD = 0.000 KB               WR = 0.000 KB        
+
+INFO::[ Vitis-EM 22 ] [Time elapsed: 291 minute(s) 25 seconds, Emulation time: 65.3523 ms]
+Data transfer between kernel(s) and global memory(s)
+xilLz4Compress_1:m_axi_gmem0-HBM[0]          RD = 145180.000 KB          WR = 94956.875 KB    
+xilLz4Compress_1:m_axi_gmem1-HBM[0]          RD = 8.875 KB               WR = 8.844 KB        
+xilLz4Decompress_1:m_axi_gmem-HBM[0]          RD = 0.000 KB               WR = 0.000 KB        
+
+INFO::[ Vitis-EM 22 ] [Time elapsed: 296 minute(s) 26 seconds, Emulation time: 66.4715 ms]
+Data transfer between kernel(s) and global memory(s)
+xilLz4Compress_1:m_axi_gmem0-HBM[0]          RD = 147669.000 KB          WR = 96572.375 KB    
+xilLz4Compress_1:m_axi_gmem1-HBM[0]          RD = 9.031 KB               WR = 9.000 KB        
+xilLz4Decompress_1:m_axi_gmem-HBM[0]          RD = 0.000 KB               WR = 0.000 KB        
+
+INFO::[ Vitis-EM 22 ] [Time elapsed: 301 minute(s) 29 seconds, Emulation time: 67.5947 ms]
+Data transfer between kernel(s) and global memory(s)
+xilLz4Compress_1:m_axi_gmem0-HBM[0]          RD = 150167.000 KB          WR = 98196.062 KB    
+xilLz4Compress_1:m_axi_gmem1-HBM[0]          RD = 9.188 KB               WR = 9.156 KB        
+xilLz4Decompress_1:m_axi_gmem-HBM[0]          RD = 0.000 KB               WR = 0.000 KB        
+

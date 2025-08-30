@@ -1,0 +1,440 @@
+{"event_id":0,"func":"MPI_Allreduce","timestamp_ns
+{"event_id":0,"func":"MPI_Allreduce","timestamp_ns
+{"event_id":0,"func":"MPI_Allreduce","timestamp_ns
+b4 44 7a 86 b5 7d 19 17 b5 ba df 14 35 ce 3f 12 b5
+{"event_id":0,"func":"MPI_Allreduce","timestamp_ns
+ 69 b6 18 3e c0 b5 62 c5 c2 35 14 1f a5 b5 3b f1 9
+f 5d 96 37 90 33 b6 37 de 68 9e 37 68 c5 aa 37 9a 
+37 2e 6d a6 37 4f f4 b5 37 fe 24 af 37 a0 d5 9c 37
+{"event_id":1,"func":"MPI_Allreduce","timestamp_ns
+7 b2 33 b7 a9 69 96 b6 c4 29 0c 37 4d 39 1a b7 41 
+ 2f b5 e7 30 8d b5 8a 18 d2 b4 76 b5 63 b4 82 a2 f
+1 29 92 b5 0f 83 26 35 71 32 2f b5 be be 5f b5 7e 
+{"event_id":1,"func":"MPI_Allreduce","timestamp_ns
+b6 9d 62 37 36 1f 99 37 35 f0 c0 1d 36 47 cd 89 b6
+a ca 71 b6 10 d1 07 36 bb 99 13 b6 1a 1a 40 b6 d2 
+e9 37 be 5a 8b 37 ef 22 8a b7 4b 95 49 37 b9 7c be
+0 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 0
+0 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+{"event_id":2,"func":"MPI_Allreduce","timestamp_ns
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+0 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+{"event_id":3,"func":"MPI_Allreduce","timestamp_ns
+b5 68 b8 32 35 f4 ee 1b 35 32 96 c9 34 c9 9e 04 b6
+ 6e b5 dd 29 a7 b5 dc ca 34 b5 f2 5a be b4 9b 47 9
+ 96 b5 54 4d d6 b5 39 88 6a b5 79 19 e7 b4 e5 b5 c
+{"event_id":3,"func":"MPI_Allreduce","timestamp_ns
+b6 d8 87 fa 35 a5 b9 d6 35 51 67 94 35 ca 31 c1 b6
+ 52 b6 d8 d9 90 b6 77 f8 16 b6 a7 18 ab b5 46 23 8
+c cf 93 b6 b2 71 a4 35 f9 44 5b b6 dc f5 e7 b5 22 
+{"event_id":4,"func":"MPI_Allreduce","timestamp_ns
+ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 0
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+{"event_id":4,"func":"MPI_Allreduce","timestamp_ns
+ 65 ed b4 0b 13 3b b5 0a c0 f8 b4 43 f8 51 35 59 e
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+0 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+{"event_id":5,"func":"MPI_Allreduce","timestamp_ns
+{"event_id":5,"func":"MPI_Allreduce","timestamp_ns
+4 05 b9 b5 10 b0 1f 34 b1 c6 9a b5 bb 1c 43 b4 47 
+b5 21 49 3b 34 1c e5 0e 35 5d 0c 3e 33 66 05 a1 b5
+{"event_id":5,"func":"MPI_Allreduce","timestamp_ns
+3 f2 9d b6 42 26 f6 34 4c 44 88 b6 0c 93 36 b5 ac 
+8 ce 18 9f b7 a2 a6 9a 38 8c 6e cd b6 8c a9 a2 b7 
+0 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+05 ba aa 78 5b 3a 54 ec a3 39 bc dc 9a 3a 24 58 40
+ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 0
+0 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+0 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+{"event_id":6,"func":"MPI_Allreduce","timestamp_ns
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+0 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+{"event_id":7,"func":"MPI_Allreduce","timestamp_ns
+{"event_id":7,"func":"MPI_Allreduce","timestamp_ns
+ 1e b6 ae 3b 36 b6 a2 28 1f b6 f1 74 9a b5 b3 14 2
+b5 3b 25 51 34 99 d4 e2 35 59 ea 14 b4 2b bc 21 b6
+{"event_id":7,"func":"MPI_Allreduce","timestamp_ns
+ 15 b7 50 83 2c b7 d4 d1 17 b7 b4 ae 92 b6 16 45 2
+ fc b6 86 55 11 b7 14 69 fe b6 9e ee 77 b6 ba 1c 0
+ 45 ca b7 2b a1 b7 b7 61 d2 2e 37 bb fc 9e 37 0b 8
+ be 2c ba db 77 21 ba f4 20 92 39 2e a5 08 3a 28 f
+0 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+0 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+0 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+{"event_id":8,"func":"MPI_Allreduce","timestamp_ns
+0 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+0 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 0
+{"event_id":9,"func":"MPI_Allreduce","timestamp_ns
+a 4d 4c b6 3e 0c 35 b3 a7 f5 51 b6 d3 51 1c 34 04 
+2 65 c4 b5 aa a6 31 b3 3a c4 d6 b5 ee 20 1e 33 f0 
+f 5a 3e b6 64 c8 31 b3 58 06 47 b6 b9 3c 21 34 bd 
+{"event_id":9,"func":"MPI_Allreduce","timestamp_ns
+1 91 1c b7 d4 ae 2e b4 45 8d 24 b7 a6 90 e1 34 bc 
+b7 b8 42 2b 35 0c e0 39 37 c7 eb 9a b5 fa db 54 b7
+0 29 89 b7 53 8b 6a b4 8a 54 8d b7 59 9a 6f 35 c2 
+a 06 ae b9 69 21 ac b9 92 60 35 39 bc 20 95 39 54 
+ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 0
+ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 0
+0 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+{"event_id":10,"func":"MPI_Allreduce","timestamp_n
+0 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 0
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+{"event_id":11,"func":"MPI_Allreduce","timestamp_n
+{"event_id":11,"func":"MPI_Allreduce","timestamp_n
+ b6 d9 01 1a 34 dc 68 26 36 da 0f 94 b4 29 4e 37 b
+6 73 b6 f2 6e 87 b6 45 1a 81 b6 aa 78 0c b6 f5 10 
+{"event_id":11,"func":"MPI_Allreduce","timestamp_n
+ b6 4a 86 b6 34 ee d3 d9 36 e0 47 34 b5 de 95 f6 b
+7 15 b7 67 7e 25 b7 2f 66 1b b7 b0 86 ad b6 8e 19 
+1 41 13 39 5c bb a3 38 af 36 98 38 30 19 bd b8 8e 
+ 84 3a bc 4a 8f 3a 46 ff 86 ba 74 bc 5c 3a d1 ea 8
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+0 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+{"event_id":12,"func":"MPI_Allreduce","timestamp_n
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+0 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+0 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+{"event_id":13,"func":"MPI_Allreduce","timestamp_n
+65 0e ea b5 55 81 d3 b3 a0 d2 fc b5 91 1d 0a 34 06
+1b 2e 02 b6 b8 fb d5 b3 41 81 0e b6 c5 ff 1e 34 95
+a 00 b6 8e 47 0f b6 98 79 04 b6 2f 22 9e b5 57 a2 
+{"event_id":13,"func":"MPI_Allreduce","timestamp_n
+be 21 27 b7 88 64 09 b5 f4 d6 34 b7 86 e3 45 35 f1
+b 94 3d ba dc 01 4d ba c7 01 07 3a c7 aa 35 3a 94 
+f 06 ee b8 cc 87 fd b8 27 3c a9 38 34 39 e6 38 06 
+0 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+0 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+0 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 0
+{"event_id":14,"func":"MPI_Allreduce","timestamp_n
+0 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 0
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+{"event_id":15,"func":"MPI_Allreduce","timestamp_n
+{"event_id":15,"func":"MPI_Allreduce","timestamp_n
+1f 5e c4 b5 c1 ad bf b3 e6 e4 d8 b5 70 0f ec 33 2f
+ b6 6d e2 f5 34 61 fd 9f 36 7e fe 5b b5 9c 01 ad b
+{"event_id":15,"func":"MPI_Allreduce","timestamp_n
+f 48 b7 a7 31 5c b7 2f ea 4c b7 96 7c 03 b7 67 af 
+20 14 45 b7 66 f7 2b b5 e4 06 53 b7 7b d4 8e 35 92
+0 be c1 39 e5 cf cd 39 be 0a 94 b9 56 38 c0 b9 1c 
+9 20 39 3b 04 45 d2 3a b8 c7 c3 3a fc 5d fe ba f0 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+0 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 0
+{"event_id":16,"func":"MPI_Allreduce","timestamp_n
+0 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+0 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+{"event_id":17,"func":"MPI_Allreduce","timestamp_n
+{"event_id":17,"func":"MPI_Allreduce","timestamp_n
+33 42 3f b6 28 e6 3c b4 dd fa 49 b6 f6 c1 b1 34 e9
+65 07 05 b6 20 29 1e b4 ca a6 0e b6 44 45 5c 34 af
+{"event_id":17,"func":"MPI_Allreduce","timestamp_n
+96 42 2e b7 7c 2d 31 b5 34 d3 39 b7 a8 ad 9c 35 66
+0 20 b7 a3 16 2d b7 1d 99 20 b7 1e f6 e0 b6 53 7c 
+4 06 b7 74 df 10 b7 fa e1 04 b7 94 17 bc b6 46 76 
+b5 9c 1e 8a b5 b7 12 81 35 33 14 5d b4 f8 8f 4c b5
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 0
+{"event_id":18,"func":"MPI_Allreduce","timestamp_n
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+0 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+0 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+{"event_id":19,"func":"MPI_Allreduce","timestamp_n
+6 4d b6 ef 2b 59 b6 79 d2 4e b6 88 34 1a b6 db 50 
+9 f0 b5 c7 20 fe b5 b7 f4 ef b5 d9 50 b6 b5 b9 bd 
+c 3e b6 4c 16 4a b6 3a 66 40 b6 7d ba 0f b6 87 a0 
+{"event_id":19,"func":"MPI_Allreduce","timestamp_n
+63 51 01 b7 f8 64 1f b5 5f d6 09 b7 bc 25 9b 35 bb
+7 2a b7 74 c2 35 b7 c8 59 2b b7 1b 7b 00 b7 46 00 
+d 74 b7 04 a6 81 b7 f9 99 77 b7 eb 1c 37 b7 e8 55 
+ 95 b8 bb 43 cb 39 45 b7 96 39 f8 dd 1d 3a 3b 94 f
+0 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+0 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+{"event_id":20,"func":"MPI_Allreduce","timestamp_n
+0 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+0 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+{"event_id":21,"func":"MPI_Allreduce","timestamp_n
+{"event_id":21,"func":"MPI_Allreduce","timestamp_n
+ b6 e7 d5 64 35 f7 86 74 36 86 8e d1 b5 27 95 86 b
+ b6 39 09 17 35 39 49 22 36 06 ce 8e b5 6a ee 38 b
+{"event_id":21,"func":"MPI_Allreduce","timestamp_n
+0 8c b7 29 51 93 b7 6e a4 8b b7 e0 85 60 b7 e3 8a 
+ 0a ba 67 1c 67 3a 34 7d a4 39 8a e0 9f 3a 1e e1 4
+ 2c ba 7e ce 88 3a d6 11 d9 39 3c 21 c3 3a ba 68 b
+d 6d a8 b8 85 5a 90 b8 82 aa 9c 38 bc 9b d1 38 18 
+ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 0
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+{"event_id":22,"func":"MPI_Allreduce","timestamp_n
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+0 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+{"event_id":23,"func":"MPI_Allreduce","timestamp_n
+ b6 21 4a 3b 35 f0 10 1a 36 ff 60 af b5 d2 de 23 b
+ b5 10 75 b1 34 0c e6 8a 35 30 77 25 b5 9e 16 a6 b
+ b6 15 3d 32 35 79 31 12 36 7b 9c a6 b5 46 5d 21 b
+{"event_id":23,"func":"MPI_Allreduce","timestamp_n
+5d a5 ab b6 8e 44 59 b5 34 5f b8 b6 c2 56 dc 35 e3
+ b7 01 df 2d 36 bc f2 0e 37 b4 4d a4 b6 9e 3c 1d b
+6 80 b7 4a dc 86 b7 5e 20 80 b7 ec 1a 5a b7 8a 50 
+b8 c8 a7 9e b8 2e 82 63 39 de 12 93 b8 e7 3d 32 b8
+ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 0
+ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 0
+ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 0
+{"event_id":24,"func":"MPI_Allreduce","timestamp_n
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+0 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+0 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+{"event_id":25,"func":"MPI_Allreduce","timestamp_n
+ b5 d4 19 c7 34 a5 f8 80 35 18 b3 3a b5 9c c2 8a b
+f4 a6 ea b5 4a a7 89 b4 79 92 f4 b5 27 a8 40 35 36
+af b5 f7 b5 ad 51 92 b4 59 1d 01 b6 01 61 4b 35 15
+{"event_id":25,"func":"MPI_Allreduce","timestamp_n
+ea 91 fc b6 ed dc ab b5 75 9f 04 b7 c1 9e 53 36 59
+5 4f b7 9a 6e 58 b7 c0 fa 4f b7 b8 e4 36 b7 ac 72 
+b8 05 8a eb b8 0e 2c e4 39 45 11 a8 b8 a4 13 a1 b9
+39 6a 9c 8f b7 f3 d3 be b7 67 97 35 b9 60 a3 80 39
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 0
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+{"event_id":26,"func":"MPI_Allreduce","timestamp_n
+ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 0
+0 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+0 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+{"event_id":27,"func":"MPI_Allreduce","timestamp_n
+ b6 7f 12 79 35 5e 64 03 36 2c c7 d4 b5 02 8c 0b b
+e3 19 3f b6 6e 31 05 b5 1c 4b 45 b6 d7 05 c8 35 85
+14 7d 11 b6 41 55 04 b5 15 25 18 b6 d3 91 9c 35 6d
+{"event_id":27,"func":"MPI_Allreduce","timestamp_n
+ b7 57 4b 21 37 2c e6 aa 37 49 1c 8a b7 59 10 b3 b
+35 78 3e b3 35 a8 ad 83 36 29 72 50 b7 10 96 fc 34
+9 55 42 b5 fe ff 01 b6 5f 47 d6 35 aa de cc 36 d9 
+b7 ee 50 d5 b7 fa 6b 03 39 79 05 65 b7 a2 7e a9 b8
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+{"event_id":28,"func":"MPI_Allreduce","timestamp_n
+ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 0
+0 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 0
+{"event_id":29,"func":"MPI_Allreduce","timestamp_n
+{"event_id":29,"func":"MPI_Allreduce","timestamp_n
+ec 64 59 b5 dd da 8b b4 b9 20 6d b5 5b 56 08 35 12
+ b5 28 2a 0b 35 f7 4c 67 35 ee be 47 b5 47 90 80 b
+{"event_id":29,"func":"MPI_Allreduce","timestamp_n
+ b6 82 e3 eb 35 30 15 4b 36 50 7a 2e b6 58 73 5e b
+5 a5 b6 70 ac ac b6 fc c3 a3 b6 92 53 99 b6 26 f2 
+b7 99 0c 08 37 e9 fe 28 37 4f 6e 92 37 ef 94 a4 b7
+ 53 35 e8 68 1f b5 1e 84 99 b5 78 92 8a b5 fc f3 5
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+0 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+{"event_id":30,"func":"MPI_Allreduce","timestamp_n
+ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 0
+0 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 0
+{"event_id":31,"func":"MPI_Allreduce","timestamp_n
+{"event_id":31,"func":"MPI_Allreduce","timestamp_n
+ b5 6d a2 34 35 64 9e 8f 35 61 ae 83 b5 92 9c 99 b
+2 dc b4 5c 26 e8 b4 d3 d5 cf b4 dc 39 cb b4 9b 7a 
+{"event_id":31,"func":"MPI_Allreduce","timestamp_n
+5 25 b6 3c 8f 2b b6 d8 ac 1f b6 f8 12 1a b6 b6 54 
+ b6 5e e5 06 36 9e c7 51 36 9e a7 3e b6 8c 8f 63 b
+2 66 b6 b0 f6 6e b6 78 e5 60 b6 23 71 57 b6 24 53 
+d 14 e0 b5 20 47 3f b4 ae 50 ff 34 9e 6c 9c 36 ee 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+0 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 0
+{"event_id":32,"func":"MPI_Allreduce","timestamp_n
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 0
+ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 0
+{"event_id":33,"func":"MPI_Allreduce","timestamp_n
+{"event_id":33,"func":"MPI_Allreduce","timestamp_n
+4 d3 b4 8e d6 da b4 5a 4d c8 b4 c3 bc c5 b4 dd bb 
+d 29 b5 5b 06 30 b5 bb 03 26 b5 52 6d 1f b5 e2 1f 
+{"event_id":33,"func":"MPI_Allreduce","timestamp_n
+28 d7 5d b6 00 a5 b8 b5 de 8a 69 b6 71 1d 27 36 cc
+ b5 1c 1a 9f 35 e1 93 dc 35 f2 da ca b5 0a c9 f4 b
+ f6 b8 b7 db f1 b8 5b 64 db 38 eb c1 e7 b8 be be b
+e 73 8e 39 10 59 9d 39 6a 7d 87 39 f6 96 76 b9 8a 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+0 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+{"event_id":34,"func":"MPI_Allreduce","timestamp_n
+0 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 0
+ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 0
+{"event_id":35,"func":"MPI_Allreduce","timestamp_n
+{"event_id":35,"func":"MPI_Allreduce","timestamp_n
+3 ad b4 38 df b8 b4 fa 4d a0 b4 81 c7 a5 b4 a7 cc 
+ b4 29 33 35 34 f7 2f 60 34 70 54 5b b4 7b 8e 86 b
+{"event_id":35,"func":"MPI_Allreduce","timestamp_n
+d 7c b6 70 bb 82 b6 a2 14 77 b6 bf e8 71 b6 22 92 
+d 56 b6 0c af 5e b6 ce 60 50 b6 df 54 4d b6 fa 0f 
+b7 2c 9e e7 36 e1 51 82 37 25 fe e4 37 bf 4e c5 b7
+0 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+0 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+{"event_id":36,"func":"MPI_Allreduce","timestamp_n
+0 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 0
+0 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+{"event_id":37,"func":"MPI_Allreduce","timestamp_n
+{"event_id":37,"func":"MPI_Allreduce","timestamp_n
+ b4 a8 5b de 33 5b 45 01 34 c8 f9 fd b3 f5 ad 24 b
+45 c0 1d b5 65 eb 91 b4 90 dd 2c b5 3c ab fe 34 9a
+{"event_id":37,"func":"MPI_Allreduce","timestamp_n
+ b5 21 36 65 35 c8 4c 87 35 a9 f1 81 b5 2c a8 a0 b
+ b5 b0 39 a4 35 86 8c c6 35 d0 3f be b5 5f 27 e2 b
+fa 41 28 b5 fe cf ae b4 ea a3 4e b5 7a 7c 08 35 b7
+{"event_id":38,"func":"MPI_Allreduce","timestamp_n
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+0 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 0
+{"event_id":38,"func":"MPI_Allreduce","timestamp_n
+ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 0
+ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 0
+ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 0
+{"event_id":39,"func":"MPI_Allreduce","timestamp_n
+{"event_id":39,"func":"MPI_Allreduce","timestamp_n
+6 ce b4 75 f7 d5 b4 4d 27 c5 b4 03 77 c6 b4 10 7f 
+ b4 55 3d 88 34 5c 04 a1 34 b6 fd 98 b4 82 b3 b9 b
+{"event_id":39,"func":"MPI_Allreduce","timestamp_n
+ b5 88 41 3d 35 a6 b4 59 35 94 c6 50 b5 36 7f 81 b
+b 7d b5 b0 f6 86 b5 30 76 70 b5 99 f6 74 b5 54 e7 
+ b5 09 ba 16 35 70 d5 2a 35 0c 4e 24 b5 18 bc 4e b
+0 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 0
+{"event_id":40,"func":"MPI_Allreduce","timestamp_n
+0 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 0
+{"event_id":41,"func":"MPI_Allreduce","timestamp_n
+ b4 17 7e 43 34 da 60 5b 34 06 88 53 b4 84 c3 80 b
+c3 ae 0b b4 13 b7 8d b3 75 eb 2b b4 98 c6 e5 33 7d
+3b 15 ac b4 99 5c 18 b4 c7 41 bd b4 2b db 88 34 27
+{"event_id":41,"func":"MPI_Allreduce","timestamp_n
+8e a8 a2 b5 3a 79 13 b5 f2 89 b6 b5 4e ac 83 35 ae
+91 7c 76 b5 89 7b e1 b4 21 69 8c b5 18 02 45 35 0e
+9 f1 93 35 c5 7b 37 34 ee 40 28 36 04 aa 60 b7 6d 
+a cf 1e 38 8c b5 d6 b7 b4 14 e9 b7 a6 32 19 b6 6c 
+0 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+{"event_id":42,"func":"MPI_Allreduce","timestamp_n
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 0
+ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 0
+{"event_id":43,"func":"MPI_Allreduce","timestamp_n
+{"event_id":43,"func":"MPI_Allreduce","timestamp_n
+ b4 ea 8f 61 34 44 c6 6f 34 e0 ba 6b b4 d6 1e 8c b
+ b4 a7 00 74 34 94 54 7e 34 a9 85 7b b4 8d 32 98 b
+{"event_id":43,"func":"MPI_Allreduce","timestamp_n
+ed 7b 26 b5 a4 c4 92 b4 24 2d 47 b5 ba f1 fb 34 0c
+ 8e b5 e7 4e 54 37 56 16 39 37 65 6d a5 37 b7 7a 1
+ 86 37 ab e9 da 37 e0 84 44 37 d7 cb 6f 38 93 2e 2
+b7 ac 0d 68 b7 12 d8 99 36 93 94 10 b7 6a 30 46 b6
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 0
+ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 0
+{"event_id":44,"func":"MPI_Allreduce","timestamp_n
+ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 0
+ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 0
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+{"event_id":45,"func":"MPI_Allreduce","timestamp_n
+{"event_id":45,"func":"MPI_Allreduce","timestamp_n
+9 42 b4 96 19 4e b4 07 3c 2c b4 bb 4f 3c b4 20 3c 
+ b3 8f 32 c5 33 47 83 c6 33 7d 40 ca b3 01 bb 00 b
+{"event_id":45,"func":"MPI_Allreduce","timestamp_n
+ b5 55 49 5c 35 68 fb 68 35 79 27 65 b5 0c d8 88 b
+6 41 b5 ee b4 50 b5 91 2f 32 b5 05 cd 3b b5 33 2a 
+8 27 b6 31 fc 2e b6 cc 66 22 b6 79 c1 23 b6 bd f9 
+ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 0
+ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 0
+ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 0
+0 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+{"event_id":46,"func":"MPI_Allreduce","timestamp_n
+ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 0
+ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 0
+0 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+{"event_id":47,"func":"MPI_Allreduce","timestamp_n
+4 9c b4 47 a4 a5 b4 1b dc 95 b4 ec 7d 99 b4 a6 a1 
+b8 de 16 b4 8d 77 68 b3 8b 4a 27 b4 9e 57 e0 33 96
+46 03 81 b4 bd 25 c9 b3 02 55 95 b4 46 f8 52 34 86
+{"event_id":47,"func":"MPI_Allreduce","timestamp_n
+2b e6 1f b5 2f 17 6f b4 cf 9b 39 b5 be 84 f4 34 29
+ b5 80 38 3d 35 d5 9f 40 35 34 e1 40 b5 97 85 67 b
+ b5 cc ff 4d 35 a6 18 52 35 7a b3 53 b5 df 91 7c b
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 0
+0 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+{"event_id":48,"func":"MPI_Allreduce","timestamp_n
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 0
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+{"event_id":49,"func":"MPI_Allreduce","timestamp_n
+{"event_id":49,"func":"MPI_Allreduce","timestamp_n
+2 73 b5 d9 cb 7c b5 20 3c 71 b5 06 65 6e b5 04 dc 
+ b4 c9 6f 08 34 84 36 09 34 2b b9 09 b4 88 e8 2b b
+{"event_id":49,"func":"MPI_Allreduce","timestamp_n
+6 20 b5 ad e4 2d b5 67 a4 14 b5 b6 9c 1b b5 4a cc 
+6 1b b5 64 a0 29 b5 56 be 10 b5 50 54 17 b5 52 92 
+c5 d3 33 b5 94 38 81 b4 8a 20 4f b5 0f 80 07 35 54
+b6 51 83 a8 b4 ae 60 f4 33 3b 4b d0 34 27 5b b3 34
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 0
+ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 0
+{"event_id":50,"func":"MPI_Allreduce","timestamp_n
+ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 0
+0 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+0 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+{"event_id":51,"func":"MPI_Allreduce","timestamp_n
+f7 fe 32 b5 6d 89 64 b4 0a ce 44 b5 b3 45 0d 35 5f
+ b4 89 18 02 34 9a da f5 33 50 0c ee b3 f1 63 1d b
+96 63 2c b5 88 07 63 b4 d8 93 3f b5 0d 4d 08 35 5a
+{"event_id":51,"func":"MPI_Allreduce","timestamp_n
+c 65 b5 82 9d 75 b5 2c 03 5a b5 c1 21 5d b5 d6 5e 
+b 65 b5 5c 32 76 b5 34 5d 5a b5 4a 8a 5d b5 24 cd 
+c b4 b5 0e ac bf b5 08 33 af b5 14 6f af b5 f2 06 
+ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 0
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+0 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+{"event_id":52,"func":"MPI_Allreduce","timestamp_n
+0 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+0 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+{"event_id":53,"func":"MPI_Allreduce","timestamp_n
+{"event_id":53,"func":"MPI_Allreduce","timestamp_n
+ b4 62 e0 55 34 0c 4b 4b 34 8c 3f 52 b4 1a 06 7d b
+ b3 f9 14 c3 33 0e 87 b9 33 62 e9 bd b3 66 8b eb b
+{"event_id":53,"func":"MPI_Allreduce","timestamp_n
+3 6d b5 cd 7f 7c b5 08 b9 64 b5 84 f4 69 b5 1a ae 
+ ee 35 b6 0b 9c 35 77 f7 ee b5 67 c2 ec 35 69 0b 8
+6 3f a5 37 22 9d 37 b8 09 6d 9a 36 d8 86 34 38 03 
+6 b1 12 b9 53 64 43 b9 d4 2a 3f 39 ba ff 3d 39 9d 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 0
+0 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+{"event_id":54,"func":"MPI_Allreduce","timestamp_n
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+ 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 0
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00

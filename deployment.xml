@@ -1,0 +1,8 @@
+<?xml version='1.0'?>
+<platform version="4.1">
+  <actor host="host0" function="replay_app"/>
+  <actor host="host1" function="replay_app"/>
+  <actor host="host2" function="replay_app"/>
+  <actor host="host3" function="replay_app"/>
+</platform>
+
