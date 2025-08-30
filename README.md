@@ -5,7 +5,7 @@ This repo has two parts:
 1) **Hardware-accelerated compression** using the AMD Vitis™ Data Compression Library (L2/L3 demos).  
 2) **MPI communication tracing → SimGrid** workflow to simulate end-to-end communication with traces captured from a real MPI run.
 
-#Link to Hardware-accelerated files [Click here to download](https://drive.google.com/file/d/1tE3bS2hZoHN-gbjuv16H0iMI9eLesWgz/view?usp=drive_link)
+### Link to Hardware-accelerated files [Click here to download](https://drive.google.com/file/d/1tE3bS2hZoHN-gbjuv16H0iMI9eLesWgz/view?usp=drive_link)
 
 The hardware build/run pieces **follow AMD/Xilinx’s documented Vitis + XRT flows** (software emulation, hardware emulation, and hardware). The MPI tracing and conversion scripts live alongside and are independent of the compression kernels.
 
